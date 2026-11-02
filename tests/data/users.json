@@ -1,0 +1,13 @@
+{
+  "valid_user": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "expected_url_path": "/inventory.html",
+    "expected_header": "Products"
+  },
+  "locked_user": {
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "expected_error": "Epic sadface: Sorry, this user has been locked out."
+  }
+}

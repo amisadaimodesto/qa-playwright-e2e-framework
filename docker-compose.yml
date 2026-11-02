@@ -1,0 +1,7 @@
+services:
+  e2e-tests:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+    environment:
+      - CI=true
