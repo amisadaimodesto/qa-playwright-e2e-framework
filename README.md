@@ -1,3 +1,13 @@
+# QA Automation Framework - Playwright & Python E2E
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Allure Report](https://img.shields.io/badge/Allure%20Report-FFA000?style=for-the-badge&logo=qameta&logoColor=white)
+
+Estrutura de automação de testes End-to-End (E2E) construída com Python, Playwright e Pytest...
+
 ## 🚀 Como Executar
 
 ### 1. Execução Local (com venv)
